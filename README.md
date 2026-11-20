@@ -5,17 +5,17 @@
 📫 Fale comigo: josecarlosnunes2004@gmail.com
 
 ## 🛠️ Tecnologias que estou estudando
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
-![css](https://img.shields.io/badge/css-3776AB?style=flat&logo=css&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-F05032?style=flat&logo=PHP&logoColor=white)
-
-## 🚧 Em breve
-Meus primeiros projetos vão aparecer aqui. Acompanhe a jornada!
-
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
 </div>
+</div>
+  
+  ##
+
+Meus primeiros projetos vão aparecer aqui. Acompanhe a jornada!
+
   
   ##
  
