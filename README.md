@@ -1,15 +1,13 @@
-# josecarlos21
-# Olá, eu sou [Seu Nome] 👋
+# Olá, eu sou jose carlos 👋
 
-💡 [Sua área: ex. iniciante em programação, entusiasta de IA, criador de conteúdo]
-🌱 Estou aprendendo: [tecnologia 1, tecnologia 2]
-🎯 Meu objetivo: [ex. criar meus primeiros projetos e trabalhar com tecnologia]
-📫 Fale comigo: [seu e-mail ou link]
+🌱 Estou aprendendo: html,PHP e css
+🎯 Meu objetivo:  criar meus primeiros projetos e trabalhar com tecnologia
+📫 Fale comigo: josecarlosnunes2004@gmail.com
 
 ## 🛠️ Tecnologias que estou estudando
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
-![css](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![css](https://img.shields.io/badge/css-3776AB?style=flat&logo=css&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-F05032?style=flat&logo=PHP&logoColor=white)
 
 ## 🚧 Em breve
 Meus primeiros projetos vão aparecer aqui. Acompanhe a jornada!
